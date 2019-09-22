@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    max-width: 500px;
+    margin: auto;
+}
+  
+img{
+     width:300px;
+    height:300px;
+    object-fit:cover;
+    border-radius:50%;
+    padding: 25px;
+    
+}
+
+p{
+    text-emphasis: bold;
+    margin: 1.5em 10px;
+
+
+}
+a{
+    text-decoration-style: none;
+}
